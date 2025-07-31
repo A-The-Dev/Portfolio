@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-skillset',
   imports: [],
   templateUrl: './skillset.component.html',
-  styleUrl: './skillset.component.scss'
+  styleUrl: './skillset.component.css'
 })
 export class SkillsetComponent {
 
